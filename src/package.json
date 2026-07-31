@@ -1,0 +1,19 @@
+{
+  "name": "pardus-es",
+  "version": "2.3.0",
+  "description": "Pardus ES - Güvenli yerel okul ağı",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "express-session": "^1.18.1",
+    "multer": "^1.4.5-lts.1",
+    "systeminformation": "^5.23.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
