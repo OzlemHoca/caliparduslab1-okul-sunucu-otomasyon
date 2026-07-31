@@ -1,0 +1,111 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "authorName": "Ahmet Yılmaz",
+      "authorRole": "mudur",
+      "text": "Dönem kurulu toplantısı Cuma günü saat 14:00'te yapılacaktır.",
+      "date": "18.06.2026"
+    },
+    {
+      "id": 2,
+      "authorName": "Zeynep Kaya",
+      "authorRole": "ogretmen",
+      "text": "Matematik kulübü öğrencileri öğle arasında kütüphanede toplansın.",
+      "date": "18.06.2026"
+    },
+    {
+      "id": "ann_1782251272783_utk4o6",
+      "authorName": "Ahmet Yılmaz",
+      "authorRole": "mudur",
+      "text": "Deneme",
+      "date": "24.06.2026"
+    }
+  ],
+  "sharedFiles": [
+    {
+      "id": "folder_ders_mufredatlari",
+      "parentId": "root",
+      "name": "Ders_Mufredatlari",
+      "originalName": "Ders Müfredatları",
+      "type": "folder",
+      "size": "--",
+      "uploadedBy": "Pardus Admin",
+      "uploadedByUser": "pardus",
+      "date": "18.06.2026",
+      "relPath": "Ders_Mufredatlari"
+    },
+    {
+      "id": "folder_1782251210426_bb8xk7",
+      "parentId": "root",
+      "name": "deneme123",
+      "originalName": "deneme123",
+      "type": "folder",
+      "size": "--",
+      "uploadedBy": "Ahmet Yılmaz",
+      "uploadedByUser": "mudur",
+      "date": "24.06.2026",
+      "relPath": "deneme123"
+    },
+    {
+      "id": "file_1782251226744_c55iw4",
+      "parentId": "folder_1782251210426_bb8xk7",
+      "name": "1782251226744_not.txt",
+      "originalName": "not.txt",
+      "type": "file",
+      "size": "6 B",
+      "bytes": 6,
+      "mime": "text/plain; charset=utf-8",
+      "uploadedBy": "Ahmet Yılmaz",
+      "uploadedByUser": "mudur",
+      "date": "24.06.2026",
+      "relPath": "deneme123/1782251226744_not.txt"
+    },
+    {
+      "id": "file_1782251233584_fzn3q4",
+      "parentId": "folder_1782251210426_bb8xk7",
+      "name": "1782251233583_images(1).jpeg",
+      "originalName": "images(1).jpeg",
+      "type": "file",
+      "size": "5.4 KB",
+      "bytes": 5507,
+      "mime": "image/jpeg",
+      "uploadedBy": "Ahmet Yılmaz",
+      "uploadedByUser": "mudur",
+      "date": "24.06.2026",
+      "relPath": "deneme123/1782251233583_images(1).jpeg"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "transfer_1781795403154_cnsc3h",
+      "from": "ogrenci1",
+      "fromName": "Ali Demir",
+      "fromRole": "ogrenci",
+      "to": "ogrenci1",
+      "filename": "1781795403148_lolipopcat.jpeg",
+      "originalName": "lolipopcat.jpeg",
+      "note": "oglum naber",
+      "size": "11.9 KB",
+      "bytes": 12155,
+      "mime": "image/jpeg",
+      "date": "18.06.2026 18:10:03",
+      "read": true
+    },
+    {
+      "id": "transfer_1782251148225_fu0a1g",
+      "from": "ogretmen",
+      "fromName": "Zeynep Kaya",
+      "fromRole": "ogretmen",
+      "to": "mudur",
+      "filename": "1782251148219_images.jpeg",
+      "originalName": "images.jpeg",
+      "note": "Selam!",
+      "size": "5.4 KB",
+      "bytes": 5507,
+      "mime": "image/jpeg",
+      "date": "24.06.2026 00:45:48",
+      "read": true
+    }
+  ]
+}
